@@ -108,7 +108,7 @@ scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/
   
 You will be prompted for password just like ssh. Enter the password and log into ieng6 with ssh again.
   
-This how my screen looked after entering password.
+This is how my screen looked after entering password.
   
   
  <img width="595" alt="Screen Shot 2022-04-01 at 6 17 08 PM" src="https://user-images.githubusercontent.com/103089880/162607590-8955b8c6-0f7d-4a96-8854-5006b420a887.png">

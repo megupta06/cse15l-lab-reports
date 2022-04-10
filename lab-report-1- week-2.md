@@ -128,6 +128,18 @@ Login to your server and type ```ls``` in the terminal. Then run the java file i
   <img width="559" alt="Screen Shot 2022-04-01 at 6 34 09 PM" src="https://user-images.githubusercontent.com/103089880/162607363-1e5e22a9-3b3f-46e0-8399-79fe967a4595.png">
   
   
+## 5. **Setting an SSH Key**
+  
+  
+I know you must be tired by now by entering password multiple times to log in or run scp but not anymore. There is a solution to it- ssh keys!
+ 
+Here’s what you should run to set this up:
+  
+On your client enter the command
+  ```
+  $ ssh-keygen
+  ```
+  
   
 
 

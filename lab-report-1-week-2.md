@@ -74,7 +74,7 @@ Here is the example of me trying few commands.
 
   *********************************************************
  
- 4. ## **Moving Files with scp**
+## 4. **Moving Files with scp**
  
   
   
@@ -165,7 +165,7 @@ $ <logout>
 
 ************************************************************
   
-  ## 6. Optimizing Remote Running
+## 6. Optimizing Remote Running
   
   You will agree that it was a lot of complex work to do with a lot of steps! But this task of local editing file , then copying it to the remote server and running it can be made easier!
 

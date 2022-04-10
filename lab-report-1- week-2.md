@@ -24,17 +24,20 @@ Click download option and install the software. There are versions for all the m
 
 If you are on Mac, go to your terminal and enter the command with zz replaced by the letters in your course-specific account.
 
-
-> $ ssh cs15lsp22zz@ieng6.ucsd.edu
-
+```
+$ ssh cs15lsp22zz@ieng6.ucsd.edu
+```
 
 Since this is the first time you're connecting to the server, you should see the following.
 
+```
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 
-> The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
 
+```
 
 Type **yes** and press enter. You should see messages similar to these on your screen.
 
@@ -75,8 +78,7 @@ Here is the example of me trying few commands.
   
   Create a file on your computer called WhereAmI.java and put the following contents into it:
   
-  
->
+  ```
   
   class WhereAmI {
   
@@ -94,7 +96,7 @@ Here is the example of me trying few commands.
   
 }
 
-
+```
 
 
 

@@ -13,3 +13,6 @@ Click download option and install the software. There are versions for all the m
 *Welcome to VS Code!*
 
 *****************************************
+
+## 2. **Remotely Connecting**
+

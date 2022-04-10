@@ -167,7 +167,30 @@ $ <logout>
   
   ## 6. Optimizing Remote Running
   
-  You will agree that it was a lot of complex work to do with a lot of steps! But this task can be made easier!
+  You will agree that it was a lot of complex work to do with a lot of steps! But this task of local editing file , then copying it to the remote server and running it can be made easier!
+
+  * You can use upper arrow key to run the last command!
   
-   Using an IDE instead of the terminalis one of the ways to edit and write code. You can use VSCode or other IDEs for local coding.
+  * You can use semicolons to run multiple commands on the same line in most terminals.
+  
+  * Moreover, you can write a command in quotes at the end of an ssh command to directly run it on the remote server.
+  
+    Here is an example to try
+  
+  ```
+  $ ssh cs15lsp22zz@ieng6.ucsd.edu "ls"
+  ```
+  
+  <img width="570" alt="Screen Shot 2022-04-10 at 1 09 03 AM" src="https://user-images.githubusercontent.com/103089880/162608950-27b76216-4da7-4828-98e0-8edd019ef496.png">
+
+  Isn't it fun! you did two steps in one using this command.
+  
+ 
+  Hope you had a good time laerning it!
+  
+ 
+  
+  
+  
+  
 

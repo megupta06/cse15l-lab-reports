@@ -103,6 +103,14 @@ In the terminal from the directory where you made this file, run this command. D
 ``` 
 scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/
 ```
+  
+You will be prompted for password just like ssh. Enter the password and log into ieng6 with ssh again, and use ls.
+  
+This how my screen looked after entering password.
+  
+  
+  <img width="1254" alt="Screen Shot 2022-04-01 at 6 17 08 PM" src="https://user-images.githubusercontent.com/103089880/162606721-edad6d35-db44-43c4-ba36-6ca8e42594b9.png">
+
 
 
 

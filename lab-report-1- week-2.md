@@ -151,5 +151,13 @@ On your client enter the command
   $ mkdir .ssh
 $ <logout>
 ```
+  
+  Now, go back on clinet and enter the command using your username and the path you saw in the command above.
+
+  
+  ```
+  $ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys
+  ```
+  Now, you should be able to ssh or scp from this client to the server without entering your password!
 
 

@@ -116,9 +116,13 @@ When run on the client computer, the output look something like this.
   
   
   
+  <img width="552" alt="Screen Shot 2022-04-01 at 6 42 46 PM" src="https://user-images.githubusercontent.com/103089880/162607532-2045518e-c96a-42f0-b3ac-cb9030b40e12.png">
+
   
   
+Login to your server and type ```ls``` in the terminal. Then run the java file in the server and you will see different set of results.
   
   
-Login to ypur server. When you type ```ls``` in the terminal it will produce a different set of results.
+  <img width="559" alt="Screen Shot 2022-04-01 at 6 34 09 PM" src="https://user-images.githubusercontent.com/103089880/162607363-1e5e22a9-3b3f-46e0-8399-79fe967a4595.png">
+
 

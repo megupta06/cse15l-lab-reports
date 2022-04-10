@@ -5,7 +5,7 @@ Go to the Visual Studio Code website [VSCode](https://code.visualstudio.com).
 
 <img width="1440" alt="Screen Shot 2022-04-09 at 9 34 00 PM" src="https://user-images.githubusercontent.com/103089880/162601665-8ba63c63-026e-4747-b70b-c2f30865eb83.png">
 
-Click download option and install the software. There are versions for all the major operating systems, like OSX (for Macs) and Windows (for PCs).When it is installed, you should be able to open a window that looks like this.
+Click download option and install the software. There are versions for all the major operating systems, like OSX (for Macs) and Windows (for PCs). When it is installed, you should be able to open a window that looks like this.
 
 <img width="1440" alt="Screen Shot 2022-04-09 at 9 37 17 PM" src="https://user-images.githubusercontent.com/103089880/162601720-de48e308-c41e-4eca-879c-dc8d7319f586.png">
 
@@ -16,3 +16,24 @@ Click download option and install the software. There are versions for all the m
 
 ## 2. **Remotely Connecting**
 
+If you are on Mac, go to your terminal and enter the command with zz replaced by the letters in your course-specific account.
+
+*
+$ ssh cs15lsp22zz@ieng6.ucsd.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now your terminal is connected to a computer in the CSE basement, and any commands you run will run on that computer! 

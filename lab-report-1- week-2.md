@@ -76,7 +76,8 @@ Here is the example of me trying few commands.
  4. ## **Moving Files with scp**
  
   
-  Create a file on your computer called WhereAmI.java and put the following contents into it:
+  
+  To learn how to  send files from your computer to server, create a file on your computer called WhereAmI.java and put the following contents into it:
   
   ```
   
@@ -125,5 +126,8 @@ Login to your server and type ```ls``` in the terminal. Then run the java file i
   
   
   <img width="559" alt="Screen Shot 2022-04-01 at 6 34 09 PM" src="https://user-images.githubusercontent.com/103089880/162607363-1e5e22a9-3b3f-46e0-8399-79fe967a4595.png">
+  
+  
+  
 
 

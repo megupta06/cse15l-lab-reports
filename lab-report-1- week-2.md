@@ -18,8 +18,8 @@ Click download option and install the software. There are versions for all the m
 
 If you are on Mac, go to your terminal and enter the command with zz replaced by the letters in your course-specific account.
 
-*
-$ ssh cs15lsp22zz@ieng6.ucsd.edu
+ssh cs15lwi22***@ieng6.ucsd.edu
+> $ ssh cs15lsp22zz@ieng6.ucsd.edu
 
 
 

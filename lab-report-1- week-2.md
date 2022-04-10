@@ -51,7 +51,7 @@ Now your terminal is connected to a computer in the CSE basement, and any comman
 
 *********************************
 
-3. ## **Trying Some Commands**
+## 3. **Trying Some Commands**
 
 
 Here are some specific useful commands to try:

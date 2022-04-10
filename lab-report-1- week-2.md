@@ -144,5 +144,12 @@ On your client enter the command
   
   <img width="570" alt="Screen Shot 2022-04-10 at 12 44 01 AM" src="https://user-images.githubusercontent.com/103089880/162608039-eef482df-5705-4c35-9e5f-7b91da2a93be.png">
 
+  
+  You have now generated a public and private key. The public key will have to be sent to the server. Now you need to copy the public key to the .ssh directory of your user account on the server. For that enter the following command on your server.
+
+  ```
+  $ mkdir .ssh
+$ <logout>
+```
 
 

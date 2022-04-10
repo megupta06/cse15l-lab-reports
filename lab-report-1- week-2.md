@@ -73,7 +73,18 @@ Here is the example of me trying few commands.
  4. ## **Moving Files with scp**
  
   
+  Create a file on your computer called WhereAmI.java and put the following contents into it:
   
+  
+>class WhereAmI {
+  public static void main(String[] args) {
+    System.out.println(System.getProperty("os.name"));
+    System.out.println(System.getProperty("user.name"));
+    System.out.println(System.getProperty("user.home"));
+    System.out.println(System.getProperty("user.dir"));
+  }
+}
+
 
 
 

@@ -72,6 +72,7 @@ Here is the example of me trying few commands.
 
 <img width="565" alt="Screen Shot 2022-04-01 at 6 22 08 PM" src="https://user-images.githubusercontent.com/103089880/162606197-34be5493-169b-4ce4-8f4c-09a6624000b8.png">
 
+  *********************************************************
  
  4. ## **Moving Files with scp**
  
@@ -127,6 +128,8 @@ Login to your server and type ```ls``` in the terminal. Then run the java file i
   
   <img width="559" alt="Screen Shot 2022-04-01 at 6 34 09 PM" src="https://user-images.githubusercontent.com/103089880/162607363-1e5e22a9-3b3f-46e0-8399-79fe967a4595.png">
   
+  ***********************************************************
+  
   
 ## 5. **Setting an SSH Key**
   
@@ -160,4 +163,7 @@ $ <logout>
   ```
   Now, you should be able to ssh or scp from this client to the server without entering your password!
 
+************************************************************
+  
+  ## 6. Optimizing Remote Running
 

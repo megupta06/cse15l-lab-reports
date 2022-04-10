@@ -35,3 +35,25 @@ Now your terminal is connected to a computer in the CSE basement, and any comman
 
 *********************************
 
+## **Trying Some Commands**
+
+Here are some specific useful commands to try:
+
+* cd ~
+* cd
+* ls -lat
+* ls -a
+* ls <directory> where <directory> is /home/linux/ieng6/cs15lsp22/cs15lsp22abc, where the abc is one of the other group members’ username
+* cp /home/linux/ieng6/cs15lsp22/public/hello.txt ~/
+* cat /home/linux/ieng6/cs15lsp22/public/hello.txt
+  
+  
+  Here is the example of me trying few commands.
+  
+
+
+
+
+
+
+

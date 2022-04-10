@@ -76,7 +76,9 @@ Here is the example of me trying few commands.
   Create a file on your computer called WhereAmI.java and put the following contents into it:
   
   
->class WhereAmI {
+>
+  
+  class WhereAmI {
   
   public static void main(String[] args) {
   

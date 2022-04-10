@@ -10,6 +10,6 @@ Click download option and install the software. There are versions for all the m
 <img width="1440" alt="Screen Shot 2022-04-09 at 9 37 17 PM" src="https://user-images.githubusercontent.com/103089880/162601720-de48e308-c41e-4eca-879c-dc8d7319f586.png">
 
 
-Welcome to VS Code!
+*Welcome to VS Code!*
 
 *****************************************

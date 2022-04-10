@@ -138,7 +138,7 @@ I know you must be tired by now by entering password multiple times to log in or
  
 Here’s what you should run to set this up:
   
-On your client enter the command
+On your client, enter the command
   ```
   $ ssh-keygen
   ```
@@ -166,4 +166,8 @@ $ <logout>
 ************************************************************
   
   ## 6. Optimizing Remote Running
+  
+  You will agree that it was a lot of complex work to do with a lot of steps! But this task can be made easier!
+  
+   Using an IDE instead of the terminalis one of the ways to edit and write code. You can use VSCode or other IDEs for local coding.
 

@@ -185,6 +185,8 @@ $ <logout>
 
   Isn't it fun! you did two steps in one using this command.
   
+  
+  *************************************
  
   **_Hope you had a good time learning it!_**
   

@@ -111,9 +111,14 @@ This how my screen looked after entering password.
   
   <img width="651" alt="Screen Shot 2022-04-01 at 6 17 08 PM" src="https://user-images.githubusercontent.com/103089880/162606771-884b0437-de36-4bce-9a7f-4e0ec24b9a95.png">
 
-
-
-Now, enter ```ls``` command in the terminal.
   
 When run on the client computer, the output look something like this.
+  
+  
+  
+  
+  
+  
+  
+Login to ypur server. When you type ```ls``` in the terminal it will produce a different set of results.
 

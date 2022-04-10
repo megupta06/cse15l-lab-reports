@@ -140,6 +140,9 @@ On your client enter the command
   $ ssh-keygen
   ```
   
+  Your screen should look something like this.
   
+  <img width="595" alt="Screen Shot 2022-04-01 at 6 17 08 PM" src="https://user-images.githubusercontent.com/103089880/162608013-5c5eae30-3ba9-484b-b0ca-c10fbadb35d2.png">
+
 
 

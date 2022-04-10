@@ -48,7 +48,7 @@ Now your terminal is connected to a computer in the CSE basement, and any comman
 
 *********************************
 
-## **Trying Some Commands**
+3. ## **Trying Some Commands**
 
 
 Here are some specific useful commands to try:
@@ -70,7 +70,7 @@ Here is the example of me trying few commands.
 <img width="565" alt="Screen Shot 2022-04-01 at 6 22 08 PM" src="https://user-images.githubusercontent.com/103089880/162606197-34be5493-169b-4ce4-8f4c-09a6624000b8.png">
 
  
- ## **Moving Files with scp**
+ 4. ## **Moving Files with scp**
  
   
   

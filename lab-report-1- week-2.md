@@ -109,7 +109,8 @@ You will be prompted for password just like ssh. Enter the password and log into
 This how my screen looked after entering password.
   
   
-  <img width="1254" alt="Screen Shot 2022-04-01 at 6 17 08 PM" src="https://user-images.githubusercontent.com/103089880/162606721-edad6d35-db44-43c4-ba36-6ca8e42594b9.png">
+  <img width="651" alt="Screen Shot 2022-04-01 at 6 17 08 PM" src="https://user-images.githubusercontent.com/103089880/162606771-884b0437-de36-4bce-9a7f-4e0ec24b9a95.png">
+
 
 
 

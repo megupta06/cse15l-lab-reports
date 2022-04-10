@@ -97,6 +97,12 @@ Here is the example of me trying few commands.
 }
 
 ```
+  
+In the terminal from the directory where you made this file, run this command. Don't forget to replace zz with your account name!
+  
+``` 
+scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/
+```
 
 
 

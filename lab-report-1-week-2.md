@@ -152,7 +152,7 @@ On your client, enter the command
 
   ```
   $ mkdir .ssh
-$ <logout>
+  $ <logout>
 ```
   
   Now, go back on clinet and enter the command using your username and the path you saw in the command above.

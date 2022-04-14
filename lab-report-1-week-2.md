@@ -134,7 +134,7 @@ Login to your server and type ```ls``` in the terminal. Then run the java file i
 ## 5. **Setting an SSH Key**
   
   
-I know you must be tired by now by entering password multiple times to log in or run scp but not anymore. There is a solution to it- ```ssh``` keys!
+I know you must be tired by now by entering password multiple times to log in or run ```scp``` but not anymore. There is a solution to it- ```ssh``` keys!
  
 Here’s what you should run to set this up:
   
@@ -161,7 +161,7 @@ On your client, enter the command
   ```
   $ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys
   ```
-  Now, you should be able to ssh or scp from this client to the server without entering your password!
+  Now, you should be able to ```ssh``` or ```scp``` from this client to the server without entering your password!
 
 ************************************************************
   
@@ -173,7 +173,7 @@ On your client, enter the command
   
   * You can use semicolons to run multiple commands on the same line in most terminals.
   
-  * Moreover, you can write a command in quotes at the end of an ssh command to directly run it on the remote server.
+  * Moreover, you can write a command in quotes at the end of an ```ssh``` command to directly run it on the remote server.
   
     Here is an example to try
   

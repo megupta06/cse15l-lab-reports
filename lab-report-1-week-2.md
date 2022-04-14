@@ -78,7 +78,7 @@ Here is the example of me trying few commands.
  
   
   
-  To learn how to  send files from your computer to server, create a file on your computer called WhereAmI.java and put the following contents into it:
+  To learn how to  send files from your computer to server, create a file on your computer called ```WhereAmI.java``` and put the following contents into it:
   
   ```
   
@@ -106,7 +106,7 @@ In the terminal from the directory where you made this file, run this command. D
 scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/
 ```
   
-You will be prompted for password just like ssh. Enter the password and log into ieng6 with ```ssh``` again.
+You will be prompted for password just like ssh. Enter the password and log into ```ieng6``` with ```ssh``` again.
   
 This is how my screen looked after entering password.
   

@@ -39,7 +39,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 
 ```
 
-Type **yes** and press enter. You should see messages similar to these on your screen.
+Type ```yes``` and press enter. You should see messages similar to these on your screen.
 
 
 
@@ -56,13 +56,13 @@ Now your terminal is connected to a computer in the CSE basement, and any comman
 
 Here are some specific useful commands to try:
 
-* cd ~
-* cd
-* ls -lat
-* ls -a
-* ls <directory> where <directory> is /home/linux/ieng6/cs15lsp22/cs15lsp22abc, where the abc is one of the other group members’ username
-* cp /home/linux/ieng6/cs15lsp22/public/hello.txt ~/
-* cat /home/linux/ieng6/cs15lsp22/public/hello.txt
+* ```cd ~```
+* ```cd```
+* ```ls -lat```
+* ```ls -a```
+* ```ls <directory>``` where ```<directory>``` is ```/home/linux/ieng6/cs15lsp22/cs15lsp22abc```, where the ```abc``` is one of the other group members’ username
+* ```cp /home/linux/ieng6/cs15lsp22/public/hello.txt ~/```
+* ```cat /home/linux/ieng6/cs15lsp22/public/hello.txt```
   
 
   
@@ -100,7 +100,7 @@ Here is the example of me trying few commands.
 
 ```
   
-In the terminal from the directory where you made this file, run this command. Don't forget to replace zz with your account name!
+In the terminal from the directory where you made this file, run this command. Don't forget to replace ```zz``` with your account name!
   
 ``` 
 scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/

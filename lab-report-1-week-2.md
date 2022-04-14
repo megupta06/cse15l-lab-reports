@@ -22,7 +22,7 @@ Click download option and install the software. There are versions for all the m
 
 ## 2. **Remotely Connecting**
 
-If you are on Mac, go to your terminal and enter the command with zz replaced by the letters in your course-specific account.
+If you are on Mac, go to your terminal and enter the command with ``zz`` replaced by the letters in your course-specific account.
 
 ```
 $ ssh cs15lsp22zz@ieng6.ucsd.edu
@@ -106,7 +106,7 @@ In the terminal from the directory where you made this file, run this command. D
 scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/
 ```
   
-You will be prompted for password just like ssh. Enter the password and log into ieng6 with ssh again.
+You will be prompted for password just like ssh. Enter the password and log into ieng6 with ```ssh``` again.
   
 This is how my screen looked after entering password.
   
@@ -134,7 +134,7 @@ Login to your server and type ```ls``` in the terminal. Then run the java file i
 ## 5. **Setting an SSH Key**
   
   
-I know you must be tired by now by entering password multiple times to log in or run scp but not anymore. There is a solution to it- ssh keys!
+I know you must be tired by now by entering password multiple times to log in or run scp but not anymore. There is a solution to it- ```ssh``` keys!
  
 Here’s what you should run to set this up:
   
@@ -148,7 +148,7 @@ On your client, enter the command
   <img width="570" alt="Screen Shot 2022-04-10 at 12 44 01 AM" src="https://user-images.githubusercontent.com/103089880/162608039-eef482df-5705-4c35-9e5f-7b91da2a93be.png">
 
   
-  You have now generated a public and private key. The public key will have to be sent to the server. Now you need to copy the public key to the .ssh directory of your user account on the server. For that enter the following command on your server.
+  You have now generated a public and private key. The public key will have to be sent to the server. Now you need to copy the public key to the ```.ssh``` directory of your user account on the server. For that enter the following command on your server.
 
   ```
   $ mkdir .ssh

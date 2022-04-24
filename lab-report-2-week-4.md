@@ -9,10 +9,10 @@
 
 
 
-**Test file for failure-including input:**  [Test file](/Users/mehakgupta/Documents/GitHub/markdown-parser/test-file2.md)
+**Test file for failure-inducing input:**  [Test file](https://github.com/megupta06/markdown-parser/blob/6eb16e74e7d2c49f11b34ed1c2e0d6b9a6ad27d7/test-file2.md)
 
 
-**Failure-including optput:**  ```[img123.html, some-google.html]```
+**Failure-inducing optput:**  ```[img123.html, some-google.html]```
 
 
 

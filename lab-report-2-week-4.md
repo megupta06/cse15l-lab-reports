@@ -2,6 +2,8 @@
 
 ## First Code Change
 
+**Failure:** When there is an image with the links in the same file
+
 **Screenshot of code change:**
 
 
@@ -23,7 +25,7 @@
 
 ## Second Code Change
 
-**Failure:** 
+**Failure:** When open paranthesis is not after close bracket
 
 
 **Screenshot of code change:**

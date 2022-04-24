@@ -33,9 +33,9 @@
 <img width="835" alt="Screen Shot 2022-04-24 at 2 16 59 PM" src="https://user-images.githubusercontent.com/103089880/164996958-8c542ea3-3492-4ddd-bce1-de73a5a373bd.png">
 
 
-**Test file for failure-inducing input:** 
+**Test file for failure-inducing input:** [Test file](https://github.com/megupta06/markdown-parser/blob/bffbfb0db3c81a5cbd3576dce4da571f6de1b023/test-file3.md)
 
-**Failure-inducing optput:**
+**Failure-inducing optput:** ```[page.com]```
 
 
 **Despriction:** 

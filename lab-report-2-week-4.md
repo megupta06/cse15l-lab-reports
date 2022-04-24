@@ -45,12 +45,13 @@
 
 ## Third Code Change
 
+**Failure:** When there are no links in the file
 
 **Screenshot of code change:**
 
 **Test file for failure-inducing input:** 
 
-**Failure-inducing optput:** ```Exception in thread "main" java.lang.StringIndexOutOfBoundsException```
+**Failure-inducing optput:** 
 
 
 **Despriction:** 

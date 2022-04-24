@@ -5,7 +5,7 @@
 **Screenshot of code change:**
 
 
-<img width="784" alt="Screen Shot 2022-04-24 at 12 53 58 PM" src="https://user-images.githubusercontent.com/103089880/164994131-916edde5-1e09-46ec-9f50-33a7fa96fc2e.png">
+<img width="835" alt="Screen Shot 2022-04-24 at 1 35 32 PM" src="https://user-images.githubusercontent.com/103089880/164995556-20ee7277-8be6-42ca-90a5-f54f7ecfe01e.png">
 
 
 

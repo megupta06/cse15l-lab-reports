@@ -38,12 +38,13 @@
 **Failure-inducing optput:** ```[page.com]```
 
 
-**Despriction:** 
+**Despriction:** In this case, the bug is that if the syntax is not right for link but since it contains brackets and paranthesis in right order, the output is the text in paranthesis. The failure-inducing input contains a space after the close bracket which makes the syntax faulty. When running the code with this input, the symptom caused by this bug is that the output contains the text in paranthesis though it should not.
 
 *************************************
 
 
 ## Third Code Change
+
 
 **Screenshot of code change:**
 

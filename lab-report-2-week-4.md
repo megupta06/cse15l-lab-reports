@@ -52,9 +52,16 @@
 <img width="835" alt="Screen Shot 2022-04-24 at 2 54 53 PM" src="https://user-images.githubusercontent.com/103089880/164998283-fb3d63b8-4ef3-45ae-afdf-e6a837da1d22.png">
 
 
-**Test file for failure-inducing input:** 
+**Test file for failure-inducing input:** [Test file](https://github.com/megupta06/markdown-parser/blob/e5ad76ea3acd141816062419e1346704fde3700e/test-file4.md)
 
 **Failure-inducing optput:** 
+```
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: -2
+        at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:48)
+        at java.base/java.lang.String.charAt(String.java:1512)
+        at MarkdownParse.getLinks(MarkdownParse.java:22)
+        at MarkdownParse.main(MarkdownParse.java:42)
+        ```
 
 
 **Despriction:** 

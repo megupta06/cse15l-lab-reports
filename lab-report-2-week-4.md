@@ -49,7 +49,8 @@
 
 **Screenshot of code change:**
 
-<img width="835" alt="Screen Shot 2022-04-24 at 2 54 53 PM" src="https://user-images.githubusercontent.com/103089880/164998283-fb3d63b8-4ef3-45ae-afdf-e6a837da1d22.png">
+<img width="835" alt="Screen Shot 2022-04-24 at 3 09 55 PM" src="https://user-images.githubusercontent.com/103089880/164998791-3ac7f536-df47-41e1-8c16-11adab3e1c5f.png">
+
 
 
 **Test file for failure-inducing input:** [Test file](https://github.com/megupta06/markdown-parser/blob/e5ad76ea3acd141816062419e1346704fde3700e/test-file4.md)

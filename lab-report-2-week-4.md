@@ -18,7 +18,7 @@
 
 
 
-**Despriction:**  In this case, the bug is that markdown parser would consider the image path as a link because the syntax of adding an image and link is the same. Both of the syntax include brackets and paranthesis. The only difference is that the syntax for adding image include '!' in the beginning. So when we run the code using failure code we get image path with the link as the output. The fixed code catches '!' and differentiates the images path and the link and returns only the link.
+**Despriction:**  In this case, the bug is that markdown parser would consider the image path as a link because the syntax of adding an image and link is the same. Both of the syntax include brackets and paranthesis. The only difference is that the syntax for adding image include '!' in the beginning.  The failure-inducing input contains both links and images. When running the code with this input, the symptom caused by this bug is that the output contains both links and names of the image files instead of just links.The fixed code catches '!' and differentiates the images path and the link and returns only the links.
 
 
 ****************************

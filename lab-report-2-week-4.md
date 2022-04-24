@@ -49,7 +49,7 @@
 
 **Test file for failure-inducing input:** 
 
-**Failure-inducing optput:**
+**Failure-inducing optput:** ```Exception in thread "main" java.lang.StringIndexOutOfBoundsException```
 
 
 **Despriction:** 

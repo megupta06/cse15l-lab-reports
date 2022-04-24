@@ -64,4 +64,4 @@ Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String ind
       
 ```
 
-**Despriction:** In this case, the bug is that there is no link. The failure-inducing file contains no link and has just text in it. When running the code with this input, it gives ```java.lang.StringIndexOutOfBoundsException``` since the file does not have any brackets and paranthesis. For the fix, the updated code first checks if file atleast has an open paranthesis.
+**Despriction:** In this case, the bug is that there is no link. The failure-inducing file contains no link and has just text in it. When running the code with this input, it gives ```java.lang.StringIndexOutOfBoundsException``` since the file does not have any brackets and paranthesis to look for. For the fix, the updated code first checks if the file atleast has an open paranthesis.

@@ -38,7 +38,7 @@
 **Failure-inducing optput:** ```[page.com]```
 
 
-**Despriction:** In this case, the bug is that markdown parser would consider this fa syntax is not right for link but since it contains brackets and paranthesis in right order, the output is the text in paranthesis. The failure-inducing input contains a space after the close bracket which makes the syntax faulty. When running the code with this input, the symptom caused by this bug is that the output contains the text in paranthesis though it should not.
+**Despriction:** In this case, the bug is that markdown parser would consider text in the paranthesis as the link because syntax for link also contains brackets and paranthesis as this file does. The difference is the file does not have the right syntax for the link. The failure-inducing input contains space and text after the close bracket. This makes the syntax faulty. When running the code with this input, the symptom caused by this bug is that the output contains the text in paranthesis though it should not as syntax was not right for the link.
 
 *************************************
 
@@ -65,4 +65,4 @@ Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String ind
       
 ```
 
-**Despriction:** In this case, the bug is that there is no link. The failure-inducing file contains no link and has just text in it. When running the code with this input, it gives ```java.lang.StringIndexOutOfBoundsException``` since the file does not have any brackets and paranthesis to look for. For the fix, the updated code first checks if the file atleast has an open bracket.
+**Despriction:** In this case, the bug is that markdown parser gives ```java.lang.StringIndexOutOfBoundsException``` . The failure-inducing file contains no link and has just text in it. When running the code with this input, the symptom caused by this bug is that it throws an exception error because there is no link in the file and hence no brackets and paranthesis to look for. 

@@ -1,7 +1,7 @@
-#Lab Report 3
+# Lab Report 3
 
 
-##Copying your whole markdown-parse directory to your ieng6 account
+## Copying your whole markdown-parse directory to your ieng6 account
 
 
 
@@ -10,7 +10,7 @@ To copy the whole directory to the CSE server, you use the command ```scp -r *.j
 
 *****************************************
 
-##Logging into your ieng6 account and compiling and running the tests for your repository
+## Logging into your ieng6 account and compiling and running the tests for your repository
 
 
 
@@ -19,7 +19,7 @@ In this step, we first ssh onto the server with ```ssh cs15lsp22xxx@ieng6.ucsd.e
 *******************************************
 
 
-##Combining scp, ;, and ssh to copy the whole directory and run the tests in one line
+## Combining scp, ;, and ssh to copy the whole directory and run the tests in one line
 
 
 In this final step, we're combining the above two steps of copying the files over to the server and running the tests in one command.

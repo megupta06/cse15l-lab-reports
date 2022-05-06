@@ -36,7 +36,9 @@ Your terminal should look similar to this.
 
 ## Setup Github Access from ieng6
 
+The public and the private key you made is stored on your user account in ```.ssh``` folder.
 
+<img width="472" alt="Screen Shot 2022-05-05 at 7 43 45 PM" src="https://user-images.githubusercontent.com/103089880/167058456-1852b67f-69fd-4e4c-8257-778bf0926660.png">
 
 
 
@@ -94,11 +96,6 @@ java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnit
  ```
 
 <img width="716" alt="Screen Shot 2022-05-05 at 5 46 08 PM" src="https://user-images.githubusercontent.com/103089880/167050342-4c602db5-41ea-48c8-b02d-81d391bd3be4.png">
-
-
-
-
-
 
 
 

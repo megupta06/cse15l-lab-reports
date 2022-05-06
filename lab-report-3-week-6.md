@@ -1,6 +1,6 @@
 # Lab Report 3
 
-## Streamlining ssh Configuration
+## Streamlining ```ssh``` Configuration
 
 To save too much of typing follow these instructions.
  To get started, try opening ```~/.ssh/config``` (on your computer, creating it if it doesn’t exist), and adding these lines
@@ -34,7 +34,7 @@ Your terminal should look similar to this.
 **********************************************************
 
 
-## Setup Github Access from ieng6
+## Setup Github Access from ```ieng6```
 
 The public and the private key you made is stored on your user account in ```.ssh``` folder.
 

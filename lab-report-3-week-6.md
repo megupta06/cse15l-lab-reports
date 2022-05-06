@@ -2,18 +2,35 @@
 
 ## Streamlining ssh Configuration
 
+To save too much of typing follow these instructions.
+ To get started, try opening ```~/.ssh/config``` (on your computer, creating it if it doesn’t exist), and adding these lines
+```
+Host ieng6
+    HostName ieng6.ucsd.edu
+    User cs15lsp22zzz (use your username)
+```
+It should look like this in VSCode.
 
 
 
+Now, open file in VSCode and try this command.
+```
+ssh ieng6
+```
+
+<img width="716" alt="Screen Shot 2022-05-05 at 7 32 54 PM" src="https://user-images.githubusercontent.com/103089880/167057322-b04ba966-df21-422e-9ef4-f7c5f443149f.png">
+
+Now try ```scp```  command to copy a file to your account using just the alias.
+Command:
+```
+scp -r . ieng6:markdown-parse
+```
+Your terminal should look similar to this. 
+
+<img width="716" alt="Screen Shot 2022-05-05 at 7 33 56 PM" src="https://user-images.githubusercontent.com/103089880/167057404-3da68dbc-9cb9-4c5a-a732-f6651df5cc6d.png">
 
 
-
-
-
-
-
-
-
+**********************************************************
 
 
 ## Setup Github Access from ieng6
@@ -38,7 +55,7 @@
 
 
 
-
+****************************************************************************
 
 
 ## Copy whole directories with ```scp -r```

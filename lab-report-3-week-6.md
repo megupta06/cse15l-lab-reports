@@ -1,7 +1,7 @@
 # Lab Report 3
 
 
-##Copy whole directories with ```scp -r```
+## Copy whole directories with ```scp -r```
 
  To copy the whole directory to the CSE server, you use the command
 

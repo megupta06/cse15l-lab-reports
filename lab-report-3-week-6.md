@@ -11,6 +11,7 @@ Host ieng6
 ```
 It should look like this in VSCode.
 
+<img width="716" alt="Screen Shot 2022-05-05 at 7 39 27 PM" src="https://user-images.githubusercontent.com/103089880/167057844-75e9154a-7fb4-48da-93b5-eb098aeb1d4d.png">
 
 
 Now, open file in VSCode and try this command.

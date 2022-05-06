@@ -5,7 +5,9 @@
 
  To copy the whole directory to the CSE server, you use the command
 
-```⤇ scp -r *.java *.md lib/ cs15lsp22@ieng6.ucsd.edu:markdown-parse```
+``` 
+scp -r *.java *.md lib/ cs15lsp22@ieng6.ucsd.edu:markdown-parse
+```
 This command securely copies all the ```.java```, ```.md```, and the ```lib``` folder recursively to a new folder on the server called ```markdown-parse```.
 
 

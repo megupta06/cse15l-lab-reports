@@ -60,7 +60,7 @@ The public and the private key you made is stored on your user account in ```.ss
 
 
 
-Link to commit is here[https://github.com/megupta06/markdown-parser/commit/0f9f9130eb2912c3a52dad5a914b184f848192ea].
+Link to commit is [here](https://github.com/megupta06/markdown-parser/commit/0f9f9130eb2912c3a52dad5a914b184f848192ea).
 
 
 ****************************************************************************

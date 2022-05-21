@@ -33,6 +33,11 @@ Added Test
  For my implementation, the corresponding output:
  
  
+ 
+ <img width="1075" alt="Screen Shot 2022-05-21 at 2 46 05 AM" src="https://user-images.githubusercontent.com/103089880/169645938-63f4b4db-dff9-420a-af5b-8c4cf054979b.png">
+
+ 
+ 
  For the implementation reviewed, the corresponding output:
 
 
@@ -57,10 +62,14 @@ It should produce:
 Added Test
 
 
+<img width="766" alt="Screen Shot 2022-05-21 at 2 50 55 AM" src="https://user-images.githubusercontent.com/103089880/169646063-53f794f3-5ee5-466e-a78c-8a646b03021e.png">
 
 
  For my implementation, the corresponding output:
  
+ 
+ <img width="1075" alt="Screen Shot 2022-05-21 at 2 50 07 AM" src="https://user-images.githubusercontent.com/103089880/169646035-f0618fd9-47a0-4add-b045-cc8489b82353.png">
+
  
  For the implementation reviewed, the corresponding output:
 
@@ -75,7 +84,12 @@ Added Test
 
 
 
+It should produce:
 
+
+
+
+Added Test
 
 
 

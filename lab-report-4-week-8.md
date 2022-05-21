@@ -3,7 +3,7 @@
 [My markdown-parse repository](https://github.com/megupta06/markdown-parser.git)
 
 
-[Reviewed markdown-parse repository]()
+[Reviewed markdown-parse repository](https://github.com/Pgerardocastaneda/markdown-parser)
 
 ## Snippet 1
 
@@ -41,6 +41,8 @@ Added Test
  For the implementation reviewed, the corresponding output:
 
 
+<img width="758" alt="Screen Shot 2022-05-21 at 3 34 48 AM" src="https://user-images.githubusercontent.com/103089880/169647754-6f27f417-53ab-4cc1-8514-55238e43ab73.png">
+
 
 
 ## Snippet 2
@@ -73,9 +75,7 @@ Added Test
  
  For the implementation reviewed, the corresponding output:
 
-
-
-
+<img width="852" alt="Screen Shot 2022-05-21 at 3 36 02 AM" src="https://user-images.githubusercontent.com/103089880/169647797-49822e2d-e3f1-44fc-ba31-98626033a31d.png">
 
 
 
@@ -131,4 +131,5 @@ Added Test
  For the implementation reviewed, the corresponding output:
 
 
+<img width="852" alt="Screen Shot 2022-05-21 at 3 37 23 AM" src="https://user-images.githubusercontent.com/103089880/169647838-908bbbdb-48a3-4b1d-957c-fc75a9e0b455.png">
 

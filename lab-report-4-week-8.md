@@ -19,7 +19,7 @@
 ```
 
 
-Expected output
+It should produce:
 
 ```
 [`google.com]
@@ -49,9 +49,9 @@ Added Test
 [some escaped \[ brackets \]](example.com)
 ```
 
-Expected output
+It should produce:
 ```
-[a.com(()), example.com]
+[a.com, a.com(()), example.com]
 ```
 
 Added Test

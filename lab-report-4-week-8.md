@@ -82,19 +82,50 @@ Added Test
 ## Snippet 3
 
 
+```
+[this title text is really long and takes up more than 
+one line
+
+and has some line breaks](
+    https://www.twitter.com
+)
+
+[this title text is really long and takes up more than 
+one line](
+https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
+)
+
+
+[this link doesn't have a closing parenthesis](github.com
+
+And there's still some more text after that.
+
+[this link doesn't have a closing parenthesis for a while](https://cse.ucsd.edu/
+
+
+
+)
+
+And then there's more text
+```
 
 
 It should produce:
 
-
-
+```
+[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedu, https://cse.ucsd.edu/]
+```
 
 Added Test
 
-
+<img width="775" alt="Screen Shot 2022-05-21 at 2 59 09 AM" src="https://user-images.githubusercontent.com/103089880/169646401-0d71634d-9772-4f69-bc6b-d12abc65f235.png">
 
 
  For my implementation, the corresponding output:
+ 
+ 
+ <img width="1159" alt="Screen Shot 2022-05-21 at 2 58 22 AM" src="https://user-images.githubusercontent.com/103089880/169646366-8e3f1216-0a71-45d4-8255-38451cee4cd3.png">
+
  
  
  For the implementation reviewed, the corresponding output:

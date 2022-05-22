@@ -44,6 +44,8 @@ Added Test
 <img width="758" alt="Screen Shot 2022-05-21 at 3 34 48 AM" src="https://user-images.githubusercontent.com/103089880/169647754-6f27f417-53ab-4cc1-8514-55238e43ab73.png">
 
 
+I don't think there would be a small code change that would be able to make either mine, or my peer's code to be able to detect the correct links for Snippet 1. I think it would take more than 10 lines because we would have to check for backticks, and then check again if there is an open and closed parenthesis. Then, we would have to check if there is another backtick to find if it closes.
+
 
 ## Snippet 2
 
@@ -77,6 +79,8 @@ Added Test
 
 <img width="852" alt="Screen Shot 2022-05-21 at 3 36 02 AM" src="https://user-images.githubusercontent.com/103089880/169647797-49822e2d-e3f1-44fc-ba31-98626033a31d.png">
 
+
+I don't think there would be a small code change that could make either mine or my peer's program work properly to parse Snippet 2. I thought that we could use a stack to figure out what is the opening and closes parenthesis and brackets. However, we would have to figure out which contents inside which parenthesis are links that are valid for markdown, or if they are just dummy parenthesis that are put there to test and/or trick the program. Therefore, this would take over 10 lines.
 
 
 ## Snippet 3
@@ -132,4 +136,9 @@ Added Test
 
 
 <img width="852" alt="Screen Shot 2022-05-21 at 3 37 23 AM" src="https://user-images.githubusercontent.com/103089880/169647838-908bbbdb-48a3-4b1d-957c-fc75a9e0b455.png">
+
+
+I don't think there is a small code change that could make either mine or my peer's program work properly to parse Snippet 3. Clearly, both of our programs are producing the incorrect output. In order to fix it, we would have to make a method to remove the extra blank spaces in between the links. We would also have to check for open parenthesis or bracket that shouldn't close, but do have a close because of a later link, so this would take over 10 lines.
+
+
 

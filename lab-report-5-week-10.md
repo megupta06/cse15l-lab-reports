@@ -41,7 +41,7 @@ My markdown parser (on the left) yielded the correct result. The problem with th
 
 <img width="725" alt="Screen Shot 2022-06-04 at 5 34 02 PM" src="https://user-images.githubusercontent.com/103089880/172030351-9fbc286c-ae2e-4aa1-a86c-10c4e8256b7d.png">
 
-My markdown parser (on the left) yielded the correct result. The way the code avoids invalid closing parenthesis/brackets in block codes can be also used to avoid potential errors caused by other symbols. The edits will be similar to what we did for the above test case. This a part of code, which can be modified to get the correct result.
+My markdown parser (on the left) yielded the correct result. The way the code avoids invalid closing parenthesis/brackets in block codes can be also used to avoid potential errors caused by other symbols. The edits will be similar to what we made for the above test case. This a part of code, which can be modified to get the correct result.
 
 <img width="725" alt="Screen Shot 2022-06-04 at 5 57 31 PM" src="https://user-images.githubusercontent.com/103089880/172030483-d7d8e490-d23d-4d22-86ee-47279f07685b.png">
 

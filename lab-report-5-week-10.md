@@ -32,7 +32,11 @@ My markdown parser (on the left) yielded the correct result. The problem with th
 
 
 
-* [test-files/22.md](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/32.md)
+* [test-files/32.md](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/32.md)
+
+```
+[foo](/f&ouml;&ouml; "f&ouml;&ouml;")
+```
 
 
 <img width="725" alt="Screen Shot 2022-06-04 at 5 34 02 PM" src="https://user-images.githubusercontent.com/103089880/172030351-9fbc286c-ae2e-4aa1-a86c-10c4e8256b7d.png">

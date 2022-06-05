@@ -14,5 +14,14 @@ $ bash script.sh > results.txt
 
 $ vimdiff my-markdown-parser/results.txt cse15lsp22-markdown-parser/results.txt
 ```
+*********************************
+
+## Discussing Testfiles with different outputs
+
+* [test-files/22.md](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/22.md)
+
+<img width="725" alt="Screen Shot 2022-06-04 at 5 33 40 PM" src="https://user-images.githubusercontent.com/103089880/172030101-7cc0256d-1841-4268-9338-69c250467c15.png">
+
+
 
 
